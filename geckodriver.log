@@ -1,0 +1,17 @@
+1604226828712	geckodriver	INFO	Listening on 127.0.0.1:50275
+1604226832666	mozrunner::runner	INFO	Running command: "D:\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Mathieu\\AppData\\Local\\Temp\\rust_mozprofileZCGWZF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604226834215	Marionette	INFO	Listening on port 50283
+1604226834233	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://aswpsdkeu.com/notify/v1/ua-sdk.min.js, line 1: NotFoundError: IDBDatabase.transaction: 'blob' is not a known object store name
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2019.min.js, line 1: unreachable code after return statement
+JavaScript warning: https://dq4irj27fs462.cloudfront.net/javascripts/userlike-production-2019.min.js, line 1: unreachable code after return statement
+[Parent 1464, Gecko_IOThread] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc, line 166
+1604226845222	Marionette	INFO	Stopped listening on port 50283
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
